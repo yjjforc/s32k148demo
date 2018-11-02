@@ -1,0 +1,477 @@
+{
+  "UserModule": {
+    "SubModuleSum": 18,
+    "FPGA_deputy_addr": 10485760,
+    "Number": [
+      {
+        "NumFPGA_Addr": 1536000,
+        "Num_W": 64,
+        "Num_H": 64
+      },
+      {
+        "NumFPGA_Addr": 3072000,
+        "Num_W": 24,
+        "Num_H": 24
+      }
+    ],
+    "Font": [
+      {
+        "FontFlash_Addr": 0,
+        "Font_W": 32,
+        "Font_H": 32
+      },
+      {
+        "FontFlash_Addr": 3088512,
+        "Font_W": 32,
+        "Font_H": 32
+      },
+      {
+        "FontFlash_Addr": 3088512,
+        "Font_W": 16,
+        "Font_H": 16
+      }
+    ],
+    "SubModule": [
+      {
+        "ID": 0,
+        "DataMode": 1,
+        "MaxX": 216,
+        "MaxY": 137,
+        "MaxW": 384,
+        "MaxH": 180,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1598912,
+            "StartX": 216,
+            "StartY": 137,
+            "StartW": 384,
+            "StartH": 180
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1773120,
+            "StartX": 216,
+            "StartY": 137,
+            "StartW": 384,
+            "StartH": 180
+          }
+        ]
+      },
+      {
+        "ID": 1,
+        "DataMode": 1,
+        "MaxX": 620,
+        "MaxY": 21,
+        "MaxW": 32,
+        "MaxH": 31,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1592448,
+            "StartX": 620,
+            "StartY": 21,
+            "StartW": 32,
+            "StartH": 31
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "DataMode": 1,
+        "MaxX": 316,
+        "MaxY": 383,
+        "MaxW": 64,
+        "MaxH": 59,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1737152,
+            "StartX": 316,
+            "StartY": 383,
+            "StartW": 64,
+            "StartH": 59
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1911360,
+            "StartX": 316,
+            "StartY": 383,
+            "StartW": 64,
+            "StartH": 59
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "DataMode": 1,
+        "MaxX": 100,
+        "MaxY": 326,
+        "MaxW": 64,
+        "MaxH": 26,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1537600,
+            "StartX": 100,
+            "StartY": 326,
+            "StartW": 64,
+            "StartH": 26
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1540928,
+            "StartX": 100,
+            "StartY": 326,
+            "StartW": 64,
+            "StartH": 26
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "DataMode": 1,
+        "MaxX": 580,
+        "MaxY": 21,
+        "MaxW": 32,
+        "MaxH": 25,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1536000,
+            "StartX": 580,
+            "StartY": 21,
+            "StartW": 32,
+            "StartH": 25
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1596224,
+            "StartX": 580,
+            "StartY": 21,
+            "StartW": 32,
+            "StartH": 25
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "DataMode": 1,
+        "MaxX": 260,
+        "MaxY": 80,
+        "MaxW": 32,
+        "MaxH": 28,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1594432,
+            "StartX": 260,
+            "StartY": 80,
+            "StartW": 32,
+            "StartH": 28
+          }
+        ]
+      },
+      {
+        "ID": 6,
+        "DataMode": 1,
+        "MaxX": 600,
+        "MaxY": 370,
+        "MaxW": 32,
+        "MaxH": 25,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1547968,
+            "StartX": 600,
+            "StartY": 370,
+            "StartW": 32,
+            "StartH": 25
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1549568,
+            "StartX": 600,
+            "StartY": 370,
+            "StartW": 32,
+            "StartH": 25
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1551168,
+            "StartX": 600,
+            "StartY": 370,
+            "StartW": 32,
+            "StartH": 25
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1552768,
+            "StartX": 600,
+            "StartY": 370,
+            "StartW": 32,
+            "StartH": 25
+          }
+        ]
+      },
+      {
+        "ID": 7,
+        "DataMode": 1,
+        "MaxX": 460,
+        "MaxY": 100,
+        "MaxW": 64,
+        "MaxH": 24,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1554368,
+            "StartX": 460,
+            "StartY": 380,
+            "StartW": 64,
+            "StartH": 24
+          },
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1591232,
+            "StartX": 460,
+            "StartY": 380,
+            "StartW": 64,
+            "StartH": 24
+          }
+        ]
+      },
+      {
+        "ID": 8,
+        "DataMode": 1,
+        "MaxX": 88,
+        "MaxY": 100,
+        "MaxW": 64,
+        "MaxH": 4,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1544256,
+            "StartX": 88,
+            "StartY": 100,
+            "StartW": 64,
+            "StartH": 4
+          },
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1544768,
+            "StartX": 88,
+            "StartY": 100,
+            "StartW": 64,
+            "StartH": 4
+          }
+        ]
+      },
+      {
+        "ID": 9,
+        "DataMode": 1,
+        "MaxX": 80,
+        "MaxY": 100,
+        "MaxW": 96,
+        "MaxH": 7,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1545280,
+            "StartX": 80,
+            "StartY": 100,
+            "StartW": 96,
+            "StartH": 7
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1546624,
+            "StartX": 80,
+            "StartY": 100,
+            "StartW": 96,
+            "StartH": 7
+          }
+        ]
+      },
+      {
+        "ID": 10,
+        "DataMode": 1,
+        "MaxX": 240,
+        "MaxY": 50,
+        "MaxW": 256,
+        "MaxH": 30,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1560512,
+            "StartX": 240,
+            "StartY": 50,
+            "StartW": 256,
+            "StartH": 30
+          }
+        ]
+      },
+      {
+        "ID": 11,
+        "DataMode": 1,
+        "MaxX": 628,
+        "MaxY": 110,
+        "MaxW": 64,
+        "MaxH": 24,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1557440,
+            "StartX": 628,
+            "StartY": 110,
+            "StartW": 64,
+            "StartH": 24
+          }
+        ]
+      },
+      {
+        "ID": 12,
+        "DataMode": 1,
+        "MaxX": 40,
+        "MaxY": 350,
+        "MaxW": 64,
+        "MaxH": 46,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1744704,
+            "StartX": 40,
+            "StartY": 350,
+            "StartW": 64,
+            "StartH": 46
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1750592,
+            "StartX": 40,
+            "StartY": 350,
+            "StartW": 64,
+            "StartH": 46
+          }
+        ]
+      },
+      {
+        "ID": 13,
+        "DataMode": 1,
+        "MaxX": 168,
+        "MaxY": 350,
+        "MaxW": 64,
+        "MaxH": 46,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1756480,
+            "StartX": 168,
+            "StartY": 350,
+            "StartW": 64,
+            "StartH": 46
+          },
+          {
+            "show_flag": 0,
+            "Fpga_Addr": 1762368,
+            "StartX": 168,
+            "StartY": 350,
+            "StartW": 64,
+            "StartH": 46
+          }
+        ]
+      },
+      {
+        "ID": 14,
+        "DataMode": 1,
+        "MaxX": 708,
+        "MaxY": 338,
+        "MaxW": 64,
+        "MaxH": 38,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1768256,
+            "StartX": 708,
+            "StartY": 338,
+            "StartW": 64,
+            "StartH": 38
+          }
+        ]
+      },
+      {
+        "ID": 15,
+        "DataMode": 1,
+        "MaxX": 200,
+        "MaxY": 400,
+        "MaxW": 256,
+        "MaxH": 30,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 1575872,
+            "StartX": 200,
+            "StartY": 400,
+            "StartW": 256,
+            "StartH": 30
+          }
+        ]
+      },
+      {
+        "ID": 16,
+        "DataMode": 2,
+        "MaxX": 200,
+        "MaxY": 200,
+        "MaxW": 96,
+        "MaxH": 32,
+        "Content": [
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 200,
+            "y": 200
+          },
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 232,
+            "y": 200
+          },
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 264,
+            "y": 200
+          },
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 296,
+            "y": 200
+          }
+        ]
+      },
+      {
+        "ID": 17,
+        "DataMode": 3,
+        "MaxX": 300,
+        "MaxY": 200,
+        "MaxW": 32,
+        "MaxH": 32,
+        "Content": [
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 300,
+            "y": 200
+          },
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 300,
+            "y": 200
+          }
+        ]
+      }
+    ]
+  }
+}

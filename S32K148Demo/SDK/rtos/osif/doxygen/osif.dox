@@ -1,0 +1,34 @@
+/**
+@defgroup osif OS Interface (OSIF)
+@brief OS Interface Layer (OSIF)
+
+This module is for SDK internal use only. It provides an abstract OS interface
+to SDK drivers (even if no OS is present) for basic OS operations (mutex and semaphore
+handling and time delay service).
+
+# FreeRTOS #
+
+A compile-time symbol, USING_OS_FREERTOS, needs to be defined.
+
+## FreeRTOSConfig.h necessities ##
+
+FreeRTOS configuration file needs to have these options activated:
+ - INCLUDE_xQueueGetMutexHolder
+ - INCLUDE_xTaskGetCurrentTaskHandle
+
+# Bare-metal #
+
+If no OS is present, the corresponding bare-metal version of OSIF needs to be linked.
+
+Mutex operations are dummy operations (always return success) and semaphore is
+implemented as a simple counter.
+
+Time delay is implemented using the core Systick timer.
+
+## Constraints ##
+
+To correctly measure time, a hardware timer is required. The Systick is employed for
+this purpose. As a consequence, the Systick timer is a blocked resource to the user
+application.
+
+*/

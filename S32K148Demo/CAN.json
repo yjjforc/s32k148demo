@@ -1,0 +1,86 @@
+{
+  "CANModule": {
+    "SubModuleSum": 21,
+    "SubModule": [
+      {
+        "ID": 0,
+        "DataMode": 2,
+        "CANID": 800,
+        "Data_Pos": 0,
+        "Effective_Data": 1,
+        "Content": [
+          {
+            "Data": 200
+          }
+        ]
+      },
+      {
+        "ID": 1,
+        "DataMode": 5,
+        "CANID": 801,
+        "Data_Pos": 0,
+        "Effective_Data": 4,
+        "Content": [
+          {
+            "Data": 2222
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "DataMode": 1,
+        "CANID": 802,
+        "Data_Pos": 0,
+        "Effective_Data": 3,
+        "Content": [
+          {
+            "Data_ItemNumber": 0
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "DataMode": 99,
+        "CANID": 803,
+        "Data_Pos": 0,
+        "Effective_Data": 1,
+        "Content": [
+          {
+            "Data_ItemNumber": 0
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "DataMode": 1,
+        "CANID": 804,
+        "Data_Pos": 0,
+        "Effective_Data": 1,
+        "Content": [
+          {
+            "Data_ItemNumber": 0
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "DataMode": 3,
+        "CANID": 804,
+        "Data_Pos": 0,
+        "Effective_Data": 255,
+        "Content": [
+          {
+            "NData_len": 1,
+            "RData_len": 1,
+            "Unicode_Pack": [
+              254762
+            ],
+            "Unicode_Reg_Pack": [
+              254762
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

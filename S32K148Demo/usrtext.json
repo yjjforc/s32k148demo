@@ -1,0 +1,197 @@
+{
+  "UserModule": {
+    "SubModuleSum": 20,
+    "FPGA_deputy_addr": 10485760,
+    "Number": [
+      {
+        "NumFPGA_Addr": 0,
+        "Num_W": 108,
+        "Num_H": 146
+      },
+      {
+        "NumFPGA_Addr": 3072000,
+        "Num_W": 24,
+        "Num_H": 24
+      }
+    ],
+    "Font": [
+      {
+        "FontFlash_Addr": 0,
+        "Font_W": 32,
+        "Font_H": 32
+      },
+      {
+        "FontFlash_Addr": 3088512,
+        "Font_W": 32,
+        "Font_H": 32
+      },
+      {
+        "FontFlash_Addr": 3088512,
+        "Font_W": 16,
+        "Font_H": 16
+      }
+    ],
+    "SubModule": [
+      {
+        "ID": 0,
+        "DataMode": 2,
+        "MaxX": 400,
+        "MaxY": 140,
+        "MaxW": 324,
+        "MaxH": 146,
+        "ShowLayer": 0,
+        "Content": [
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 500,
+            "y": 140
+          },
+          {
+            "Num_Kind": 1,
+            "Unicode_Kind": 0,
+            "x": 450,
+            "y": 140
+          },
+          {
+            "Num_Kind": 1,
+            "Unicode_Kind": 0,
+            "x": 400,
+            "y": 140
+          },
+          {
+            "Num_Kind": 1,
+            "Unicode_Kind": 0,
+            "x": 400,
+            "y": 140
+          },
+          {
+            "Num_Kind": 1,
+            "Unicode_Kind": 0,
+            "x": 400,
+            "y": 140
+          }
+        ]
+      },
+      {
+        "ID": 1,
+        "DataMode": 5,
+        "MaxX": 100,
+        "MaxY": 100,
+        "MaxW": 18,
+        "MaxH": 24,
+        "ShowLayer": 1,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Max_Value": 100,
+            "color": 16711680,
+            "unit_W": 16,
+            "unit_H": 32,
+            "X_S": 60,
+            "Y_S": 300,
+            "X_F": 160,
+            "Y_F": 400,
+            "BarMoreArea": 50
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "DataMode": 1,
+        "MaxX": 50,
+        "MaxY": 80,
+        "MaxW": 18,
+        "MaxH": 24,
+        "ShowLayer": 1,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 366468,
+            "StartX": 50,
+            "StartY": 80,
+            "StartW": 60,
+            "StartH": 64
+          },
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 351108,
+            "StartX": 300,
+            "StartY": 96,
+            "StartW": 60,
+            "StartH": 64
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "DataMode": 1,
+        "MaxX": 50,
+        "MaxY": 80,
+        "MaxW": 18,
+        "MaxH": 24,
+        "ShowLayer": 1,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 366468,
+            "StartX": 50,
+            "StartY": 80,
+            "StartW": 60,
+            "StartH": 64
+          },
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 351108,
+            "StartX": 300,
+            "StartY": 96,
+            "StartW": 60,
+            "StartH": 64
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "DataMode": 1,
+        "MaxX": 100,
+        "MaxY": 150,
+        "MaxW": 64,
+        "MaxH": 60,
+        "ShowLayer": 1,
+        "Content": [
+          {
+            "show_flag": 1,
+            "Fpga_Addr": 358788,
+            "StartX": 100,
+            "StartY": 150,
+            "StartW": 64,
+            "StartH": 60
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "DataMode": 3,
+        "MaxX": 100,
+        "MaxY": 360,
+        "MaxW": 128,
+        "MaxH": 128,
+        "ShowLayer": 0,
+        "Content": [
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 100,
+            "y": 360
+          },
+          {
+            "Num_Kind": 0,
+            "Unicode_Kind": 0,
+            "x": 132,
+            "y": 360
+          }
+        ]
+      }
+    ]
+  }
+}
